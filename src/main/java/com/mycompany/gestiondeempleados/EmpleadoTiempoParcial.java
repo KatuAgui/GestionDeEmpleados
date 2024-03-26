@@ -4,10 +4,6 @@
  */
 package com.mycompany.gestiondeempleados;
 
-/**
- *
- * @author Katia Aguilar
- */
 public class EmpleadoTiempoParcial extends Empleado{
     private double horasTrabajadas;
     
